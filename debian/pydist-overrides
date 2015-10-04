@@ -12,3 +12,4 @@ oslo.utils python-oslo-utils
 oslo.rootwrap python-oslo-rootwrap
 oslo.log python-oslo-log
 oslo.middleware python-oslo-middleware
+setuptools-git
