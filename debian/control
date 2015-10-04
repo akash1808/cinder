@@ -55,6 +55,7 @@ Build-Depends-Indep:
  python-retrying (>= 1.2.3),
  python-routes (>= 1.12.3),
  python-setuptools,
+ python-setuptools-git,
  python-six (>= 1.9.0),
  python-sphinx (>= 1.1.2),
  python-sqlalchemy (>= 0.9.7),
