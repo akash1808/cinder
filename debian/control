@@ -74,6 +74,7 @@ Homepage: http://launchpad.net/cinder
 Vcs-Browser: http://bazaar.launchpad.net/~ubuntu-server-dev/cinder/kilo/files
 Vcs-Bzr: https://code.launchpad.net/~ubuntu-server-dev/cinder/kilo
 XS-Testsuite: autopkgtest
+X-Python-Version: >= 2.7
 
 Package: python-cinder
 Section: python
