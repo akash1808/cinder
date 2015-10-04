@@ -68,7 +68,6 @@ Build-Depends-Indep:
  python-testresources,
  python-testtools (>= 0.9.36),
  python-webob (>= 1.2.3),
- setuptools-git,
  testrepository (>= 0.0.18)
 Standards-Version: 3.9.6
 Homepage: http://launchpad.net/cinder
